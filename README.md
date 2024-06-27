@@ -8,14 +8,20 @@
 
 ## DVGMRF
 IVGMRFにおける尤度の設計を拡張したモデルです。（情報処理学会で発表しました）
+
+
 ![dvgmrf](https://github.com/tetdarth/image-denoising-for-GMRF/assets/136053901/e5a9e802-70a6-409c-9910-295a28a4fccf)
 
 ## IVHGMRF
 IVGMRFにおけるバイアスベクトルをガウス分布に従うと仮定した上で拡張したモデルです。（先行論文有）
+
+
 ![ivhgmrf](https://github.com/tetdarth/image-denoising-for-GMRF/assets/136053901/438aea57-c813-44fa-9c0b-bcd42775914d)
 
 ## DVGMRF
 DVGMRFにおけるバイアスベクトルをガウス分布に従うと仮定した上で拡張したモデルです。
+
+
 ![dvhgmrf](https://github.com/tetdarth/image-denoising-for-GMRF/assets/136053901/aa7248e4-450a-4a72-b084-09b5286eba0a)
 
 
